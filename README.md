@@ -48,3 +48,11 @@ Products can be added and deleted locally which get stored on Google Firebase. U
 <img src="https://user-images.githubusercontent.com/60785452/128601275-28e20dc9-7630-4b83-b85d-c8f487741d97.png" width="200" height="400">
 
 
+
+# Short Demo of the App
+
+<video src="https://user-images.githubusercontent.com/60785452/128603442-20ec4a75-9a5b-4b2a-b492-3a56aca8ae1e.mp4" width="200" height="400">
+
+
+
+
