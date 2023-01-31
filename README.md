@@ -1,5 +1,5 @@
 # ShopApp
-E-Commerce Shop App built using Flutter and Firebase aimed for small scale local businesses.
+E-Commerce Shop App built using Flutter and Firebase aimed for small scale local businesses. Built during a learning bootcamp.
 
 Products can be added and deleted locally which get stored on Google Firebase. User can signup with email and then login. The app is completely cloud based with no data stored locally.
 
